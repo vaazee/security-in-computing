@@ -1,7 +1,7 @@
 # Security in Computing 
 
 
-[O'Reilly Link] (https://learning.oreilly.com/library/view/security-in-computing/9780137891375/ch01.xhtml)
+[O'Reilly Link](https://learning.oreilly.com/library/view/security-in-computing/9780137891375/ch01.xhtml)
 
 ## Introduction
 
